@@ -1,0 +1,6 @@
+{
+    "name": "test webcam",
+    "short_name": "webcam",
+    "start_url": ".",
+    "background_color": "#000"
+}
